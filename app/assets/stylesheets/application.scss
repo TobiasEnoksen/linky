@@ -1,0 +1,25 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+    
+   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(http://img05.deviantart.net/6bb3/i/2015/243/f/c/gaming_background_by_leviticusart-d97w54c.png);
+background-size: cover;
+color: white;
+    
+}
+
+.page-header h1 { font-family: 'Lobster', cursive; 
+    color: #efeaea;
+}
+
+.page-header small {font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #efeaea; 
+}
+
+.list-group .list-group-item:hover {
+    color:black;
+    background-color:#efeaea;
+}
+
+
